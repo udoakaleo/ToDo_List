@@ -1,0 +1,2 @@
+/* made error handlers and queried the database 
+able to INSERT and SELECT from database*/
